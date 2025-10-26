@@ -1,3 +1,49 @@
+
+---
+
+## 🧱 Klasör Açıklamaları
+
+### 🗂️ lib/
+Uygulamanın ana kaynak kodlarını içerir.
+
+- **future/** → Özellik (feature) bazlı yapı. Her alt klasör bir ekran veya modül temsil eder.  
+  - **drawer_home/** → Ana menü (Drawer) ekranı ve bileşenleri.  
+    - `state/`: 
+    - `widget/`: 
+    - `drawer_home.dart`:  
+  - **splash/** → Uygulama açılış (splash) ekranı.  
+    - `state/`: 
+    - `splash_view.dart`:   
+    - `update_version_view.dart`: 
+  - **todos/** → Todo listesi modülü.  
+    - `mixin/`:
+    - `state/`: 
+    - `widget/`: 
+    - `todo_view.dart`: 
+
+- **product/** → Uygulama genelinde tekrar kullanılabilir yapı taşlarını içerir.  
+  - `constant/`: Sabitler,paddgingler vs
+  - `enum/`: Uygulama genelinde kullanılan enum tanımları.  
+  - `extension/`: Yardımcı uzantılar 
+  - `init/`: (app_initialize, state_initialize)  
+  - `navigation/`: Yönlendirme yönetimi (GoRouter)  
+  - `service/`: (get_it)  
+  - `widget/`:   
+- **main.dart** → Uygulamanın giriş noktası.
+
+---
+
+### 🧩 module/
+genellikle bağımsız veya dışa açık parçalardır.
+code generation lar burada toplanr
+
+
+
+
+
+
+
+
 ## 📂 Proje Yapısı (Mermaid)
 
 ```mermaid
@@ -39,3 +85,6 @@ graph TD
   J --> J2[environment]
   J --> J3[model]
   I --> J4[gen.dart]
+
+
+

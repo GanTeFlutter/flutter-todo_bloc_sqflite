@@ -1,8 +1,24 @@
+## Uygulama Resimleri 
 
----
+<!-- 1. sıra -->
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/83183148-a4cf-4920-91e7-230b0dfb6fb4" width="200" />
+  <img src="https://github.com/user-attachments/assets/a838b841-37f2-4966-953a-79307be8f470" width="200" />
+  <img src="https://github.com/user-attachments/assets/148dc239-68fe-440b-ae79-bd6865652277" width="200" />
+</p>
+
+<!-- 2. sıra -->
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/01c984cc-2403-4ed6-87db-bc12da8d1ff3" width="200" />
+  <img src="https://github.com/user-attachments/assets/064aecb2-1021-4d0e-b4b6-f0854cf19d54" width="200" />
+  <img src="https://github.com/user-attachments/assets/93abd7e5-1eea-4a3e-9b71-2b1c35d4877f" width="200" />
+</p>
+
+
+
+
 
 ## 🧱 Klasör Açıklamaları
-
 ### 🗂️ lib/
 Uygulamanın ana kaynak kodlarını içerir.
 

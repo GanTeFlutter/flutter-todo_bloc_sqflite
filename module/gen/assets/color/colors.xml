@@ -1,0 +1,32 @@
+<resources>
+    <!-- Siyah -->
+    <color name="black">#000000</color>
+    <!-- Beyaz -->
+    <color name="white">#FFFFFF</color>
+    <!-- Mor (Primary renk) -->
+    <color name="primary">#6200EE</color>
+    <!-- Kırmızı -->
+    <color name="red">#FF0000</color>
+    <!-- Yeşil -->
+    <color name="green">#00FF00</color>
+    <!-- Mavi -->
+    <color name="blue">#0000FF</color>
+    <!-- Sarı -->
+    <color name="yellow">#FFFF00</color>
+    <!-- Gri -->
+    <color name="gray">#808080</color>
+    <!-- Turuncu -->
+    <color name="orange">#FFA500</color>
+    <!-- Pembe -->
+    <color name="pink">#FFC0CB</color>
+    <!-- Açık Mavi -->
+    <color name="light_blue">#ADD8E6</color>
+    <!-- Koyu Yeşil -->
+    <color name="dark_green">#006400</color>
+    <!-- Kahverengi -->
+    <color name="brown">#A52A2A</color>
+    <!-- Mor -->
+    <color name="purple">#800080</color>
+    <!-- Altın Sarısı -->
+    <color name="gold">#FFD700</color>
+</resources>
